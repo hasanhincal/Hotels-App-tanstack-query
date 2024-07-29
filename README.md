@@ -22,10 +22,6 @@ A React application for managing and exploring hotels. This app allows users to 
 - **React Icons**: ^5.2.1
 - **Tailwind CSS**: ^0.0.0 (assumed to be `tailwindcss` package)
 
-## For Live Project
-
-https://www.hotels.safewebsite.store
-
 ## Project Gif
 
 <img src="screen1.gif" alt="screenGif"/>
